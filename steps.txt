@@ -1,0 +1,15 @@
+For Running the Large Language Models (LLMs) on CPU, we will be using ggml format models.
+
+Ggml is a tensor library for machine learning which enables the faster execution of large models such 
+as LLMs on regular hardware. This library is written in C, and it has many features that enables its 
+performance even on CPUs.
+
+Now, in order to use any LLM, first we need to find a ggml format of the model. I find GPT4All website and 
+Hugging Face Model Hub very convenient to download ggml format models.
+
+
+Create a github repo
+Download a quantization model
+Create teamplate file
+install requirements
+download model
